@@ -2,9 +2,9 @@
 
   <PropertyGroup>
     <TargetFrameworks>netstandard2.1;netstandard2.0;net35;net40</TargetFrameworks>
-    <AssemblyVersion>4.5.3.3</AssemblyVersion>
-    <FileVersion>4.5.3.3</FileVersion>
-    <Version>4.5.3.3</Version>
+    <AssemblyVersion>4.5.3.4</AssemblyVersion>
+    <FileVersion>4.5.3.4</FileVersion>
+    <Version>4.5.3.4</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseUrl></PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/JanKallman/EPPlus</PackageProjectUrl>
@@ -17,7 +17,10 @@
     <RepositoryUrl></RepositoryUrl>
     <PackageTags>Excel ooxml</PackageTags>
     <Copyright>Jan Källman 2020</Copyright>
-    <PackageReleaseNotes>
+    <PackageReleaseNotes># EPPlus 4.5.3.4
+     Fix for Handle left open (iOCO IS)
+
+
       # EPPlus 4.5.3.3
 
       ## Announcement: This is the last version of EPPlus under the LGPL License
